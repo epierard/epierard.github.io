@@ -17,4 +17,4 @@ This is my website where I post about [projects](/projects/) I've been involved 
 
 Feel free to contact me via email or social media.
 
-[//]: <> <img src="/assets/DSC04224.jpeg" width="300"/>
+[//]: <> <img src="/assets/ppic.jpeg" width="300"/>
