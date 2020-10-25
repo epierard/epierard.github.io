@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-<a href="/assets/CV_Pierard.pdf" style="float: right;">Download</a>
+<!-- <a href="/assets/CV_Pierard.pdf" style="float: right;">Download</a>
 
 
 # Education
