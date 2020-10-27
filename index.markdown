@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img src="/assets/ppic.jpeg" width="320" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
+<img src="/assets/ppic.jpeg" width="150" style="float: left; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
 <br />
 <br />
@@ -13,6 +13,6 @@ layout: page
 # Welcome!
 
 
-This is my website where I post about [projects](/projects/) I've been involved during my studies.
+Here I post my essays and research on systems transitions and climate change. Take a look in  [projects](/projects/).
 
 Feel free to contact me via email or social media.

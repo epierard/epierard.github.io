@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Elena Pierard
+title: Elena C. Pierard
 email: elena.pierard[at]ouce[.]ox[.]ac[.]uk
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a PhD student at the University of Oxford studying energy system transitions.
+  Doctoral researcher at the University of Oxford studying energy system transitions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: epierard
 github_username:  epierard
-
+linkedin_username: elena-pierard
 # Build settings
 theme: minima
 plugins:
