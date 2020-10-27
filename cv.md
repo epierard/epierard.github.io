@@ -11,11 +11,11 @@ permalink: /cv/
 # Education
 -----------
 <br />
-**DPhil. student** at _the University of Oxford, School of Geography and the Environment_ (2018-) <br />
+**DPhil. student**, _University of Oxford, School of Geography and the Environment_, (2018- ). <br />
 
-**MSc. in Evironmental Governance**, _University of Oxford_, (2017)<br />
+**MSc. in Evironmental Governance**, _University of Oxford_, (2017). <br />
 
-**B.A. Politics and Public Administation**, _El Colegio de México_, (2014) <br />
+**B.A. Politics and Public Administation**, _El Colegio de México_, (2014). <br />
 
 <!--**Propaedeutic in Mathematics and Physics specialized in Engineering.** <br />
 &nbsp;&nbsp;&nbsp;Université Catholique de Louvain (2010 - 2011).<br />
