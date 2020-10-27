@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-**Projects**
+**Publications**
 
 Here I will link to my publications and forthcoming research
 

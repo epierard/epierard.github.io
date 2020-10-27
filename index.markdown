@@ -5,12 +5,12 @@
 layout: page
 ---
 
-<img src="/assets/icon.png" width="320" style="float: left; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
+<img src="/assets/icon.png" width="300" style="float: left; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
 <br />
 <br />
 
-# Welcome to my page
+# Welcome to my personal page
 
 
 Here I will start posting essays and my research publications on systems transitions and climate change.

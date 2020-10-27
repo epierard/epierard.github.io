@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/ppic.jpeg" width="320" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
+<img src="/assets/ppic.jpeg" width="220" style="float: right; margin-left: 25px; margin-right: 25px; margin-bottom: 25px;"/>
 
 <p align="justify"> I'm a <a href="https://www.geog.ox.ac.uk/graduate/research/epierard.html"> PhD student</a> at the University of Oxford studying systems transitions.
 <p align="justify"> In general terms, I am interested in the intersection of government and business in technological adoption, climate change and environmental policy.
