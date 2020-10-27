@@ -4,17 +4,14 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 <!-- <a href="/assets/CV_Pierard.pdf" style="float: right;">Download</a>
-
-
-# Education
------------
-<br />
-
 <!--**PhD Student in Physical Oceanography** <br />
 &nbsp;&nbsp;&nbsp;Utrecht University (2020 - 2024).<br />
 &nbsp;&nbsp;&nbsp; Project: _Transport of nanoplastics in the ocean._/>-->
 
-**DPhil. (3rd year) University of Oxford, School of Geography and the Environment** <br />
+# Education
+-----------
+<br />
+**DPhil. student at the University of Oxford, School of Geography and the Environment** <br />
 &nbsp;&nbsp;&nbsp;(2018 - ongoing) <br />
 
 **MSc. in Evironmental Governance, University of Oxford** <br />
@@ -47,12 +44,6 @@ permalink: /cv/
 &nbsp;&nbsp;&nbsp;Oxford, November 2017 - January 2018.<br />
 &nbsp;&nbsp;&nbsp;Smith School of Enterprise and the Environment<br />
 
-# Awards
-------------
-<br />
-**2016 Adrian Lajous award to the best thesis of the B.A. in Political Science and Public Administration program 2010-2014**<br />
-&nbsp;&nbsp;&nbsp;_Academic Prize_.<br />
-<br />
 
 # Conferences and community
 ------------
@@ -74,6 +65,19 @@ permalink: /cv/
 &nbsp;&nbsp;&nbsp; 2020 Virtual forum <br />
 &nbsp;&nbsp;&nbsp; 2021 Bratislava Conference <br />
 
+# Awards
+------------
+<br />
+**2016 Adrian Lajous award to the best thesis of the B.A. in Political Science and Public Administration program 2010-2014**<br />
+&nbsp;&nbsp;&nbsp;_Academic Prize_.<br />
+<br />
+
+# Languages
+------------
+<br />
+&nbsp;&nbsp;&nbsp;Spanish _(native)_.<br />
+&nbsp;&nbsp;&nbsp;French _(fluent)_. <br />
+&nbsp;&nbsp;&nbsp;English _(fluent)_. <br />
 
 <!-- <br />
 
@@ -123,13 +127,6 @@ permalink: /cv/
 &nbsp;&nbsp;&nbsp;Score: 99/120. *March 2018*.<br />
 
 <br /> -->
-
-# Languages
-------------
-<br />
-&nbsp;&nbsp;&nbsp;Spanish (native).<br />
-&nbsp;&nbsp;&nbsp;French (fluent). <br />
-&nbsp;&nbsp;&nbsp;English (fluent). <br />
 
 <!--
 **Programming Languages**<br />

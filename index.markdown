@@ -10,9 +10,9 @@ layout: page
 <br />
 <br />
 
-# Welcome!
+# Welcome to my page
 
 
-Here I post my essays and research on systems transitions and climate change. Take a look in  [projects](/projects/).
+Here I will start posting essays and my research publications on systems transitions and climate change.
 
 Feel free to contact me via email or social media.
