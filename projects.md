@@ -8,6 +8,8 @@ permalink: /projects/
 
 Here I will link to projects I have worked on
 
+...
+
 <!--
 <ul>
 {% for post in site.posts %}

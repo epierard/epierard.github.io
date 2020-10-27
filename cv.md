@@ -23,28 +23,28 @@ permalink: /cv/
 <!--**Propaedeutic in Mathematics and Physics specialized in Engineering.** <br />
 &nbsp;&nbsp;&nbsp;Université Catholique de Louvain (2010 - 2011).<br />
 <br />-->
-
+<br />
 # Research Experience
 -----------
 <br />
 
 **Research Assistant on oil and gas decarbonisation**<br />
 &nbsp;&nbsp;&nbsp;Oxford, March 2020 - July 2020.<br />
-&nbsp;&nbsp;&nbsp;Blavatnik School of Government<br />
+&nbsp;&nbsp;&nbsp;_Blavatnik School of Government_<br />
 
 **Research Assistant on oil and gas decarbonisation**<br />
 &nbsp;&nbsp;&nbsp;Oxford, June 2019 - September 2019.<br />
-&nbsp;&nbsp;&nbsp;Blavatnik School of Government<br />
+&nbsp;&nbsp;&nbsp;_Blavatnik School of Government_<br />
 
 **Teaching Assistant on GOTO: The future of energy**<br />
 &nbsp;&nbsp;&nbsp;Oxford, January 2019 - March 2019.<br />
-&nbsp;&nbsp;&nbsp;Saïd Business School<br />
+&nbsp;&nbsp;&nbsp;_Saïd Business School_<br />
 
 **Research Assistant full time on sustainable infrastructure investing**<br />
 &nbsp;&nbsp;&nbsp;Oxford, November 2017 - January 2018.<br />
-&nbsp;&nbsp;&nbsp;Smith School of Enterprise and the Environment<br />
+&nbsp;&nbsp;&nbsp;_Smith School of Enterprise and the Environment_<br />
 
-
+<br />
 # Conferences and community
 ------------
 <br />
@@ -53,31 +53,34 @@ permalink: /cv/
 &nbsp;&nbsp;&nbsp;PhD colloquium and Virtual Conference<br />
 
 **Sustainability global PhDs Community**<br />
-&nbsp;&nbsp;&nbsp;Organizations and Natural Environment - Academy of Management <br />
+&nbsp;&nbsp;&nbsp;Organizations and Natural Environment - _Academy of Management_ <br />
 
 **STRATEGY, INNOVATION, AND ENTREPRENEURSHIP WORKSHOP**<br />
-&nbsp;&nbsp;&nbsp; Workshop series <br />
+&nbsp;&nbsp;&nbsp;2020 Virtual Workshop series <br />
 
 **Society for the Advancement of Socio-Economics (SASE)**<br />
-&nbsp;&nbsp;&nbsp;2020 SASE Virtual Conference: New political, technological and economic forces <br />
+&nbsp;&nbsp;&nbsp;2020 SASE Virtual Conference: _New political, technological, and economic forces_ <br />
 
 **Earth Systems Governance Project**<br />
 &nbsp;&nbsp;&nbsp; 2020 Virtual forum <br />
 &nbsp;&nbsp;&nbsp; 2021 Bratislava Conference <br />
+<br />
 
 # Awards
 ------------
 <br />
 **2016 Adrian Lajous award to the best thesis of the B.A. in Political Science and Public Administration program 2010-2014**<br />
-&nbsp;&nbsp;&nbsp;_Academic Prize_.<br />
+&nbsp;&nbsp;&nbsp;_Academic Prize_<br />
+&nbsp;&nbsp;&nbsp;_Adrian Lajous Foundation_ and _El Colegio de Mexico_<br />
+
 <br />
 
 # Languages
 ------------
 <br />
-&nbsp;&nbsp;&nbsp;Spanish _(native)_.<br />
-&nbsp;&nbsp;&nbsp;French _(fluent)_. <br />
-&nbsp;&nbsp;&nbsp;English _(fluent)_. <br />
+&nbsp;&nbsp;&nbsp;Spanish _(native)_<br />
+&nbsp;&nbsp;&nbsp;French  _(fluent)_<br />
+&nbsp;&nbsp;&nbsp;English _(fluent)_<br />
 
 <!-- <br />
 

@@ -8,6 +8,8 @@ permalink: /publications/
 
 Here I will link to my publications and forthcoming research
 
+...
+
 <!--
 **Publication 1** <br />
 &nbsp;&nbsp;&nbsp;something.<br />
