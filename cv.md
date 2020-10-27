@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
 <!-- <a href="/assets/CV_Pierard.pdf" style="float: right;">Download</a>
