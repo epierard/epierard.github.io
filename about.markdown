@@ -9,8 +9,9 @@ permalink: /about/
 <p align="justify"> I'm a <a href="https://www.geog.ox.ac.uk/graduate/research/epierard.html"> PhD student</a> at the University of Oxford studying systems transitions.
 <p align="justify"> In general terms, I am interested in the intersection of government and business in technological adoption, climate change and environmental policy.
 
-<p align="justify"> I study how sustainable transitions happen and how major economic actors can be part or obstructs for them, as well as the role that government regulation and policy has has to play. My hunch is that the way they adopt climate change technologies relate to their past technology experiences with regards to government subsidies and regulation, and their learnt ability to resist.
-In my research I am looking at European oil major companies' involvement and retention of renewable energy technologies over the last 20 years. </p>
+<p align="justify"> I study how sustainable transitions happen and how major economic actors can be part or obstructs for them, as well as the role that government regulation and policy has to play. My hunch is that the way they adopt climate change technologies relate to their past technology experiences with regards to government subsidies and regulation, and their learnt ability to resist.
+
+<p align="justify"> In my research I am looking at European oil major companies' involvement and retention of renewable energy technologies over the last 20 years. </p>
 
 <p align="justify"> I am also interested in sustainable food transitions and system behaviour change, as well as the political processes by which 'green' initiatives and technologies are defined and accepted.
 
