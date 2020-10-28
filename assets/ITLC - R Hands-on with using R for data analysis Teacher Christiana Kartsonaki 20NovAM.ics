@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0100
+TZOFFSETTO:-0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:-0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Christiana Kartsonaki";RSVP=TRUE:mailto:christiana.kartsonaki@
+	dph.ox.ac.uk
+CATEGORIES:Repeated Course - Template setup
+CLASS:PUBLIC
+CREATED:20201020T134448Z
+DESCRIPTION:Welcome to the ITLC online teacher-led courses. \n\n \n\nAre yo
+	u sitting comfortably\, somewhere quiet where you won’t be disturbed or 
+	annoy others?  \n\n \n\nOn the day of the course\, click on the 'Join Micr
+	osoft Teams Meeting' link below a few minutes before the course starts. 
+	 Then wait for the teacher to introduce the course. \n\n \n\nEnjoy! \n\n
+	 \n\nPlease contact us at courses@it.ox.ac.uk <mailto:courses@it.ox.ac.uk>
+	  if you are having problems accessing the course. \n\n \n\n______________
+	__________________________________________________________________ \n\nJoi
+	n Microsoft Teams Meeting <https://teams.microsoft.com/l/meetup-join/19%3a
+	meeting_ZjY1YmViMzYtODcxOC00MjFhLWFjYjgtY2FmMjU0YmQ2Yjgx%40thread.v2/0?con
+	text=%7b%22Tid%22%3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22
+	%3a%22ec8668ee-3299-46ca-af77-23f67f1189ee%22%7d>  \n\nLearn more about Te
+	ams <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.mi
+	crosoft.com/meetingOptions/?organizerId=ec8668ee-3299-46ca-af77-23f67f1189
+	ee&tenantId=cc95de1b-97f5-4f93-b4ba-fe68b852cf91&threadId=19_meeting_ZjY1Y
+	mViMzYtODcxOC00MjFhLWFjYjgtY2FmMjU0YmQ2Yjgx@thread.v2&messageId=0&language
+	=en-US>  \n\n_____________________________________________________________
+	___________________ \n\n \n\n
+DTEND;TZID="GMT Standard Time":20201120T121500
+DTSTAMP:20201019T151609Z
+DTSTART;TZID="GMT Standard Time":20201120T090000
+LAST-MODIFIED:20201020T134448Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="IT Learning Centre":mailto:courses@it.ox.ac.uk
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-gb:ITLC - R: Hands-on with using R for data analysis\, 
+	Teacher: Christiana Kartsonaki 20NovAM
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000020FD831633A6D601000000000000000
+	010000000FC0C2E97E5DAC54C94A5CCA5EC9B4AE6
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2
+	 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNorma
+	l\, div.MsoNormal\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11
+	.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\
+	;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\
+	;\n	text-decoration:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	
+	{mso-style-priority:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\
+	nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"Cal
+	ibri"\,sans-serif\;\n	color:windowtext\;}\np.paragraph\, li.paragraph\, di
+	v.paragraph\n	{mso-style-name:paragraph\;\n	mso-margin-top-alt:auto\;\n	ma
+	rgin-right:0cm\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0cm\;\n	font
+	-size:12.0pt\;\n	font-family:"Times New Roman"\,serif\;}\nspan.normaltextr
+	un\n	{mso-style-name:normaltextrun\;}\nspan.eop\n	{mso-style-name:eop\;}\n
+	.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:"Calibri"\,sa
+	ns-serif\;\n	mso-fareast-language:EN-US\;}\n@page WordSection1\n	{size:612
+	.0pt 792.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n
+		{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefau
+	lts v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><
+	xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o
+	:shapelayout></xml><![endif]--></head><body lang=EN-GB link="#0563C1" vlin
+	k="#954F72"><div class=WordSection1><p class=paragraph style='margin:0cm\;
+	margin-bottom:.0001pt\;vertical-align:baseline'><span class=normaltextrun>
+	<span style='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:#6
+	264A7'>Welcome to the ITLC&nbsp\;online teacher-led&nbsp\;courses.</span><
+	/span><span class=eop><span style='font-size:11.0pt\;font-family:"Calibri"
+	\,sans-serif\;color:#6264A7'>&nbsp\;</span></span><span style='font-size:9
+	.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p></o:p></span></p><p class=p
+	aragraph style='margin:0cm\;margin-bottom:.0001pt\;vertical-align:baseline
+	\;user-select: text\;-webkit-user-drag: none\;-webkit-tap-highlight-color:
+	 transparent\;overflow-wrap: break-word'><span class=eop><span style='font
+	-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:#6264A7'>&nbsp\;</s
+	pan></span><span style='font-size:9.0pt\;font-family:"Segoe UI"\,sans-seri
+	f'><o:p></o:p></span></p><p class=paragraph style='margin:0cm\;margin-bott
+	om:.0001pt\;vertical-align:baseline\;user-select: text\;-webkit-user-drag:
+	 none\;-webkit-tap-highlight-color: transparent\;overflow-wrap: break-word
+	'><span class=normaltextrun><span style='font-size:11.0pt\;font-family:"Ca
+	libri"\,sans-serif\;color:#6264A7'>Are you sitting comfortably\, somewhere
+	 quiet where you&nbsp\;won’t&nbsp\;be disturbed or annoy others?&nbsp\;<
+	/span></span><span class=eop><span style='font-size:11.0pt\;font-family:"C
+	alibri"\,sans-serif\;color:#6264A7'>&nbsp\;</span></span><span style='font
+	-size:9.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p></o:p></span></p><p 
+	class=paragraph style='margin:0cm\;margin-bottom:.0001pt\;vertical-align:b
+	aseline\;user-select: text\;-webkit-user-drag: none\;-webkit-tap-highlight
+	-color: transparent\;overflow-wrap: break-word'><span class=eop><span styl
+	e='font-size:11.0pt\;font-family:"Calibri"\,sans-serif\;color:#6264A7'>&nb
+	sp\;</span></span><span style='font-size:9.0pt\;font-family:"Segoe UI"\,sa
+	ns-serif'><o:p></o:p></span></p><p class=paragraph style='margin:0cm\;marg
+	in-bottom:.0001pt\;vertical-align:baseline\;user-select: text\;-webkit-use
+	r-drag: none\;-webkit-tap-highlight-color: transparent\;overflow-wrap: bre
+	ak-word'><span class=normaltextrun><b><span style='font-size:11.0pt\;font-
+	family:"Calibri"\,sans-serif\;color:#6264A7'>On the day of the course\,</s
+	pan></b></span><span class=normaltextrun><span style='font-size:11.0pt\;fo
+	nt-family:"Calibri"\,sans-serif\;color:#6264A7'>&nbsp\;click&nbsp\;on the 
+	'Join Microsoft Teams Meeting' link below a few minutes before the course 
+	starts.  Then&nbsp\;<b>wait</b>&nbsp\;for the teacher to introduce the c
+	ourse.</span></span><span class=eop><span style='font-size:11.0pt\;font-fa
+	mily:"Calibri"\,sans-serif\;color:#6264A7'>&nbsp\;</span></span><span styl
+	e='font-size:9.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p></o:p></span>
+	</p><p class=paragraph style='margin:0cm\;margin-bottom:.0001pt\;vertical-
+	align:baseline\;user-select: text\;-webkit-user-drag: none\;-webkit-tap-hi
+	ghlight-color: transparent\;overflow-wrap: break-word'><span class=eop><sp
+	an style='font-size:9.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#6264
+	A7'>&nbsp\;</span></span><span style='font-size:9.0pt\;font-family:"Segoe 
+	UI"\,sans-serif'><o:p></o:p></span></p><p class=paragraph style='margin:0c
+	m\;margin-bottom:.0001pt\;vertical-align:baseline\;user-select: text\;-web
+	kit-user-drag: none\;-webkit-tap-highlight-color: transparent\;overflow-wr
+	ap: break-word'><span class=normaltextrun><span style='font-size:11.0pt\;f
+	ont-family:"Calibri"\,sans-serif\;color:#6264A7'>Enjoy!</span></span><span
+	 class=eop><span style='font-size:11.0pt\;font-family:"Calibri"\,sans-seri
+	f\;color:#6264A7'>&nbsp\;</span></span><span style='font-size:9.0pt\;font-
+	family:"Segoe UI"\,sans-serif'><o:p></o:p></span></p><p class=paragraph st
+	yle='margin:0cm\;margin-bottom:.0001pt\;vertical-align:baseline\;user-sele
+	ct: text\;-webkit-user-drag: none\;-webkit-tap-highlight-color: transparen
+	t\;overflow-wrap: break-word'><span class=eop><span style='font-size:10.0p
+	t\;font-family:"Calibri"\,sans-serif\;color:#6264A7'>&nbsp\;</span></span>
+	<span style='font-size:9.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p></o
+	:p></span></p><p class=paragraph style='margin:0cm\;margin-bottom:.0001pt\
+	;vertical-align:baseline\;user-select: text\;-webkit-user-drag: none\;-web
+	kit-tap-highlight-color: transparent\;overflow-wrap: break-word'><span cla
+	ss=normaltextrun><i><span style='font-size:10.0pt\;font-family:"Calibri"\,
+	sans-serif\;color:#6264A7'>Please contact us at&nbsp\;</span></i></span><s
+	pan style='font-size:9.0pt\;font-family:"Segoe UI"\,sans-serif'><a href="m
+	ailto:courses@it.ox.ac.uk" target="_blank"><span class=normaltextrun><i><s
+	pan style='font-size:10.0pt\;font-family:"Calibri"\,sans-serif\;color:#056
+	3C1'>courses@it.ox.ac.uk</span></i></span></a></span><span class=normaltex
+	trun><i><span style='font-size:10.0pt\;font-family:"Calibri"\,sans-serif\;
+	color:#6264A7'>&nbsp\;if you are having problems&nbsp\;accessing the cours
+	e.</span></i></span><span class=eop><span style='font-size:10.0pt\;font-fa
+	mily:"Calibri"\,sans-serif\;color:#6264A7'>&nbsp\;</span></span><span styl
+	e='font-size:9.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p></o:p></span>
+	</p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><span styl
+	e='color:gray'>___________________________________________________________
+	_____________________</span> <span style='font-size:12.0pt'><o:p></o:p></s
+	pan></p><div><div style='margin-top:18.0pt\;margin-bottom:7.5pt'><p class=
+	MsoNormal><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'>
+	<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjY1YmViMz
+	YtODcxOC00MjFhLWFjYjgtY2FmMjU0YmQ2Yjgx%40thread.v2/0?context=%7b%22Tid%22%
+	3a%22cc95de1b-97f5-4f93-b4ba-fe68b852cf91%22%2c%22Oid%22%3a%22ec8668ee-329
+	9-46ca-af77-23f67f1189ee%22%7d" target="_blank"><span style='font-size:13.
+	5pt\;font-family:"Segoe UI Semibold"\,sans-serif\;color:#6264A7'>Join Micr
+	osoft Teams Meeting</span></a> <o:p></o:p></span></p></div><p class=MsoNor
+	mal><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a hre
+	f="https://aka.ms/JoinTeamsMeeting" target="_blank"><span style='font-size
+	:9.0pt\;color:#6264A7\;text-decoration:none'>Learn more about Teams</span>
+	</a> | <a href="https://teams.microsoft.com/meetingOptions/?organizerId=ec
+	8668ee-3299-46ca-af77-23f67f1189ee&amp\;tenantId=cc95de1b-97f5-4f93-b4ba-f
+	e68b852cf91&amp\;threadId=19_meeting_ZjY1YmViMzYtODcxOC00MjFhLWFjYjgtY2FmM
+	jU0YmQ2Yjgx@thread.v2&amp\;messageId=0&amp\;language=en-US" target="_blank
+	"><span style='font-size:9.0pt\;color:#6264A7\;text-decoration:none'>Meeti
+	ng options</span></a> <o:p></o:p></span></p></div><div><p class=MsoNormal>
+	<span style='color:gray'>_________________________________________________
+	_______________________________</span> <span style='font-family:"Times New
+	 Roman"\,serif'><o:p></o:p></span></p></div><p class=MsoNormal><o:p>&nbsp\
+	;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20201019T151609Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+X-MS-OLK-SENDER;CN="Tim Piper":mailto:tim.piper@it.ox.ac.uk
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
